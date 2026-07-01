@@ -7,7 +7,7 @@
   
   **Software Developer | AI Researcher | Machine Learning Engineer**
   <br>
-  *Senior Analyst ( Software Research ) @ Accenture Labs*
+  *Senior Analyst Intern( Software Research ) @ Accenture Labs*
 
 </div>
 
@@ -35,7 +35,7 @@ I'm a driven developer who crafts elegant, high-performance, user-centric digita
 ```yaml
 name: Prithviraj K Tagadinamani
 location: Banglore, Karnataka, India
-role: Senior Analyst ( Software Research ) @ Accenture Labs
+role: Senior Analyst Intern ( Software Research ) @ Accenture Labs
 education: M.Tech Data Science @ IIT Guwahati
 focus: [Research, Agentic Workflows, Multi-Agent Systems, LLMs, Voice AI agents, Software Engineering, Agent Driven Development, Spec Driven Development, System Architect]
 currently_solving: "350+ DSA problems and counting"
@@ -52,7 +52,7 @@ currently_solving: "350+ DSA problems and counting"
 <td width="120" align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg" width="60"/></td>
 <td>
 
-**Senior Analyst ( Software Research )** · Accenture Labs
+**Senior Analyst Intern ( Software Research )** · Accenture Labs
 `Jan 2026 – Present`
 
 Researching **GraphRAG**, multi-agent systems & enterprise LLM applications — improved retrieval efficiency by **30%**, built a LangGraph-based multi-agent retrieval POC, and developed a Skill Atrophy Framework studying software engineering in the GenAI era.
