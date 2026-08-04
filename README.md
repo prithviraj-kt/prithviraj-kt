@@ -5,7 +5,7 @@
   
   ## Hi there, I'm Prithviraj K Tagadinamani 👋
   
-  **Software Developer | AI Researcher | Machine Learning Engineer**
+  **Software Developer | Research Engineer**
   <br>
   *Senior Analyst Intern( Software Research ) @ Accenture Labs*
 
@@ -30,7 +30,7 @@
 
 <img align="right" width="260" src="https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=600" style="border-radius: 12px;" />
 
-I'm a driven developer who crafts elegant, high-performance, user-centric digital experiences. Leveraging AI and cutting-edge technologies, I build applications that solve real-world problems, drive innovation, and create measurable impact.
+I enjoy solving complex engineering problems at the intersection of AI and software engineering. My interests include agentic AI, intelligent developer tools, multi-agent systems, and scalable distributed applications, with an emphasis on building reliable systems backed by research.
 
 ```yaml
 name: Prithviraj K Tagadinamani
@@ -44,6 +44,23 @@ currently_solving: "350+ DSA problems and counting"
 <br clear="right"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## ⟡ Research & Publications
+
+### 🏆 Accepted Publication
+
+**Teaching Beyond Answers: An Agentic Framework for Knowledge-Driven, Personalized, and Scalable Learning**
+
+📍 **Accepted at IEEE/ACM ASE 2026 (CORE A\*)**  
+🔗 **Paper:** https://arxiv.org/abs/2607.06101
+
+> Developed an agentic AI framework that teaches rather than simply answers, enabling personalized, scalable learning through intelligent multi-agent collaboration.
+
+### 🚀 Ongoing Research
+
+- Software Engineering in the GenAI Era
+- Skill Preservation & Skill Atrophy in AI-Assisted Development
+- Spec-Driven & Agent-Driven Development
 
 ## ⟡ Experience
 
@@ -285,14 +302,6 @@ Eco-friendly e-commerce platform with Green Coins rewards, carbon-footprint trac
 | **AI-Assisted Dev** | Cursor `85%` · Claude Code `85%` · GitHub Copilot `80%` · Spec/Agent-Driven Dev `80%` |
 
 </details>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## ⟡ Research & Publications
-
-📝 **1 paper co-authored** and submitted to **ASE 2026** — on agents that teach.
-
-✍️ **1 paper currently in progress** — exploring software engineering practices & skill preservation in the GenAI era.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
